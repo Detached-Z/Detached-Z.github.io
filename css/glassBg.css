@@ -1,9 +1,9 @@
-/* ���ĵ�ҳë����Ч�� */
+/* 正文底页毛玻璃效果 */
 #board {
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
   }
-  /* ���Ŀ¼ë����Ч�� */
+  /* 侧边目录毛玻璃效果 */
   #toc {
     padding: 10px;
     top: 4rem;

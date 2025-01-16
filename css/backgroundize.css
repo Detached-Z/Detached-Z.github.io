@@ -11,7 +11,7 @@
     height: 100%;
     z-index: -1;
     background-size: cover;
-    /* ���ӹ���Ч�� */
+    /* 添加过渡效果 */
     transition: all 0.5s;
   }
   
