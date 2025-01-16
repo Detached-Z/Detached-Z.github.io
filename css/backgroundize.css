@@ -1,7 +1,7 @@
 :root {
-    --mobile-bg-image: url('https://tbytebit.github.io/img/default.png');
-    --desktop-bg-image-normal: url('https://tbytebit.github.io/img/default.png');
-    --desktop-bg-image-night: url('https://tbytebit.github.io/img/default.png');
+    --mobile-bg-image: url('https://tbytebit.github.io/img/bg/default.png');
+    --desktop-bg-image-normal: url('https://tbytebit.github.io/img/bg/default.png');
+    --desktop-bg-image-night: url('https://tbytebit.github.io/img/bg/default.png');
   }
   
   #web_bg {
